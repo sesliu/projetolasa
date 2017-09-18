@@ -25,11 +25,3 @@ Abaixo segue o comando SQL para execução do banco:
                        foto longtext);`
                        
 
-- ### Front-end
-
-O Front-end foi desenvolvido usando o script create-react-app, pois já monta a estrutura do que é necessário para o projeto ReactJs funcionar. Nesse caso ele executará com o NodeJS, usando o comando `npm start` dentro da pasta do projeto.
-O projeto front-end está compactado dentro da pasta chamada Frontend no projeto java, deverá ser copiado para uma pasta fora do projeto, por exemplo: para uma pasta na área de trabalho, depois deverá descompactar o arquivo.
-No terminal ou CMD, ir no diretório do projeto e executar o comando `npm start` para subir o sistema.
-
-Obs.:  Executar o projeto java spring e React na mesma máquina.
-
