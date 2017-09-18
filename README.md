@@ -17,7 +17,7 @@ Instalar o Mysql com o login e senha **root**, caso já esteja com o MySql insta
 Abaixo segue o comando SQL para execução do banco:
 
 `create database produtos;`
-
+`use produtos;`
 `create table produto (codigo int primary key auto_increment,
                        nome varchar(50), 
                        preco numeric(12,2),
