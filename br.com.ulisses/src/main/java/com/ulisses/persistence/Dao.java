@@ -14,7 +14,7 @@ public class Dao {
 
 	public void open() {
 
-		String url = "jdbc:mysql://ww1z3ews50vo6nc4:d0hri643wvtoaslx@mna97msstjnkkp7h.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/xysd9gy2psc27cs9";
+		String url = "jdbc:mysql://mna97msstjnkkp7h.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/xysd9gy2psc27cs9";
 		String user = "ww1z3ews50vo6nc4";
 		String password = "d0hri643wvtoaslx";
 
